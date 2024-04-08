@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa08a0a8-dd8a-4208-bc0d-e3e667e183cb" name="Changes" comment="" />
+    <list default="true" id="aa08a0a8-dd8a-4208-bc0d-e3e667e183cb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AMS 515 HW 7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AMS 515 HW 7.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portopt_factors/PortOpt_factor/optimizer/ipca.py" beforeDir="false" afterPath="$PROJECT_DIR$/portopt_factors/PortOpt_factor/optimizer/ipca.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,7 @@
       <list>
         <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -34,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -45,6 +51,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -106,11 +113,27 @@
       <workItem from="1711229988179" duration="3459000" />
       <workItem from="1711418814313" duration="3000" />
       <workItem from="1711744624037" duration="1890000" />
+      <workItem from="1711748397180" duration="4824000" />
+      <workItem from="1711765874313" duration="19581000" />
+      <workItem from="1712264291186" duration="152000" />
+      <workItem from="1712526977815" duration="2767000" />
+      <workItem from="1712554939022" duration="1479000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
