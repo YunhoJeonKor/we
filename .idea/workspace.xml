@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="aa08a0a8-dd8a-4208-bc0d-e3e667e183cb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AMS 515 HW 7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AMS 515 HW 7.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portopt_factors" beforeDir="false" afterPath="$PROJECT_DIR$/portopt_factors" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portopt_factors/PortOpt_factor/optimizer/ipca.py" beforeDir="false" afterPath="$PROJECT_DIR$/portopt_factors/PortOpt_factor/optimizer/ipca.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +117,7 @@
       <workItem from="1711765874313" duration="19581000" />
       <workItem from="1712264291186" duration="152000" />
       <workItem from="1712526977815" duration="2767000" />
-      <workItem from="1712554939022" duration="1479000" />
+      <workItem from="1712554939022" duration="1629000" />
     </task>
     <servers />
   </component>
